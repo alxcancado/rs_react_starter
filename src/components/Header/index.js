@@ -1,4 +1,5 @@
 import React from "react";
+import "./styles.css";
 
 // stateless components use functions, not classes.
 const Header = () => <header id="main-header">Satoshi Cult</header>;
